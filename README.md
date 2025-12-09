@@ -32,6 +32,12 @@ src/
 ├── Permissions/          # Demo about permissions in memory
 ```
 
+## Vibe Coding Instructions
+```
+.copilot/
+├── Guidelines/           # Guidelines that always need to be followed when coding
+├── Design/               # Requirement and design documents for specific developments 
+
 ## Getting Started
 
 1. **Prerequisites**:
